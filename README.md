@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá, eu sou Everson
 
-<!--
-**EversonCoser/eversoncoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduado em Ciência da Computação, com interesse em desenvolvimento backend e bancos de dados.
 
-Here are some ideas to get you started:
+### 💻 Áreas de interesse
+- Desenvolvimento Backend
+- Bancos de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias
+- Node.js | Prisma | NestJS | JavaScript
+- PostgreSQL | SQL
+
+### 📚 Acadêmico
+- Iniciação científica em robótica educacional
+- TCC em aprendizado de máquina (análise de dados e validação de modelos)
+
+### 📂 Projetos pessoais que estou trabalhando
+- Projeto backend com Node.js e PostgreSQL
+
+📫 Contato:
+- LinkedIn: https://www.linkedin.com/in/everson-coser-18618331b/
+- Email: cosereverson@gmail.com
